@@ -43,6 +43,9 @@ button{
     transform: translateY(-50%);
     z-index: 2;
 }
+small{
+    text-transform: capitalize;
+}
 h1{
     font-size: 80px;
     margin: 10px 0px 30px;
